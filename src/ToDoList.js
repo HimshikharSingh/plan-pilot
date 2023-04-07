@@ -33,7 +33,7 @@ function ToDoList() {
     <div className="todolist-page">
       <div className="todolist-container">
         <header className="todolist-header">
-          <h1>To-Do List</h1>
+          <h1>Plan Pilot To-Do List</h1>
         </header>
         <FormToDoList
           inputText={inputText}
